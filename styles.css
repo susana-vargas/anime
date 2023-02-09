@@ -1,0 +1,51 @@
+.titulo,
+.titulo2,
+.parrafo,
+.segundotitulo {
+    text-align: center;
+}
+
+.lista,
+.parrafo,
+.titulo2,
+.segundotitulo {
+    background-color:azure;
+    text-align: center;
+}
+
+.titulo,
+.parrafo,
+.h1,
+.parrafo2,
+.orden,
+.parrafo3,
+.desorden {
+    text-align: center;
+}
+
+.titulo,
+.parrafo,
+.parrafo2,
+.parrafo3,
+.orden,
+.desorden,
+.h1 {
+    background-color: azure;
+}
+
+.vegito,
+.descript,
+.contring,
+.trans {
+    text-align: center;
+}
+
+.vegito,
+.descript,
+.contring,
+.trans,
+.parrafo4,
+.orden,
+.desorden {
+    background-color:azure;
+}
